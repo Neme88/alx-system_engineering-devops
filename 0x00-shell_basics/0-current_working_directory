@@ -1,4 +1,2 @@
 #!/bin/bash
-pwd 0-current_working_directory 
-# my first shell script
-
+pwd 0-current_working_directory
