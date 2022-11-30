@@ -1,3 +1,4 @@
 #!/bin/bash
-pwd 0-current_working_directory \n 
+pwd 0-current_working_directory 
+# my first shell script
 
