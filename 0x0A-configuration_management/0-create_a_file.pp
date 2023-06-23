@@ -1,4 +1,4 @@
-# Create a Puppet file in /tmp
+# Create a Puppet file in /tmp/school
 
 file { '/tmp/school':
         ensure  => present,
